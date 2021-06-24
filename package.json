@@ -1,0 +1,18 @@
+{
+  "name": "submission-bookself-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "books.js",
+  "dependencies": {
+    "@hapi/hapi": "^20.1.4",
+    "nanoid": "^3.1.23",
+    "nodemon": "^2.0.7"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
